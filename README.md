@@ -298,7 +298,7 @@ smart-bookmark/
 
 **Sumukh P Marathe**
 
-- GitHub: [@Suukh2003](https://github.com/Sumukh2003)
+- GitHub: [@Sumukh2003](https://github.com/Sumukh2003)
 - Email: sumukhmarathesonda@gmail.com
 
 ## 🙏 Acknowledgments
