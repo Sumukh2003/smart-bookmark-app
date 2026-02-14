@@ -16,7 +16,7 @@ export default function Home() {
             <h1 className="text-xl font-bold text-gray-900">Smart Bookmark</h1>
           </div>
 
-          <LoginButton />
+          <LoginButton className="px-4 py-2 text-sm whitespace-nowrap" />
         </div>
       </nav>
 
@@ -32,7 +32,7 @@ export default function Home() {
           </p>
 
           <div className="mt-10">
-            <LoginButton />
+            <LoginButton className="w-full sm:w-auto px-8 py-3 text-base" />
           </div>
         </div>
       </section>
